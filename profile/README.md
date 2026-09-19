@@ -17,14 +17,6 @@ Each board has its own repository with installation instructions, setup helpers,
 
 **The list of supported boards will grow gradually.** New boards are added as integration work and hardware testing progress. Check each board's README and release notes for available downloads, validation status and known limitations. A listed board does not imply that every peripheral or hardware function is supported.
 
-## Shared development
-
-Board support is developed through a shared ARM64 builder, allowing common improvements to be reused across devices while keeping board-specific requirements explicit.
-
-Source code and development: [VyOS ARM64 board builder](https://github.com/frogro/vyos-arm64-board-builder).
-
-Hardware test results, reproducible bug reports and contributions are welcome. Please use the relevant board repository for board-specific issues.
-
 ## Community project
 
 These are unofficial community images. VyARM Community is not affiliated with or endorsed by the VyOS project or the hardware manufacturers. Upstream software and trademarks remain the property of their respective owners, and component licenses continue to apply.
