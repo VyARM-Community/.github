@@ -25,4 +25,4 @@ These are unofficial community images. VyARM Community is not affiliated with or
 
 Contributions help cover hardware, testing, maintenance and development time.
 
-[Support via PayPal](https://paypal.me/FGrootens)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/FGrootens)
