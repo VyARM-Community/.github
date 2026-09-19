@@ -14,6 +14,7 @@ Each board has its own repository with installation instructions, setup helpers,
 | --- | --- |
 | Radxa ROCK 5B | [rock-5b](https://github.com/VyARM-Community/rock-5b) |
 | Radxa E52C | [radxa-e52c](https://github.com/VyARM-Community/radxa-e52c) |
+| Raspberry Pi 5 | [raspberry-pi-5](https://github.com/VyARM-Community/raspberry-pi-5) |
 
 **The list of supported boards will grow gradually.** New boards are added as integration work and hardware testing progress. Check each board's README and release notes for available downloads, validation status and known limitations. A listed board does not imply that every peripheral or hardware function is supported.
 
